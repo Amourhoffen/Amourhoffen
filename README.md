@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Prince Kumar</h1>
-<h3 align="center">A passionate Java Developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amourhoffen&label=Profile%20views&color=0e75b6&style=flat" alt="amourhoffen" /> </p>
 
 <p align="left"> <a href="https://twitter.com/amourhoffen" target="blank"><img src="https://img.shields.io/twitter/follow/amourhoffen?logo=twitter&style=for-the-badge" alt="amourhoffen" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Java development || Micro Services**
+- 🌱 I’m currently learning **Full Stack Java & Web Development || Micro Services**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **UI Design & Micro Serives**
 
-- 📫 How to reach me **amourhoffen@gmail.com**
+- 📫 How to reach me **amourhoffen@gmail.com | LJPRINCEKASHYAP@GMAIL.COM**
 
 - ⚡ Fun fact **I'm Not Fully 🙃**
 
