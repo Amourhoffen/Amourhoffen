@@ -4,8 +4,8 @@
   <em>Software Developer | Indian Actor (IMDb) | Data Analyst</em>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=imPrince_Kashyap&label=Profile%20views&color=0e75b6&style=flat" alt="Prince" />
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=amourhoffen&label=Profile%20views&color=0e75b6&style=flat" alt="amourhoffen" /> 
 </p>
 
 ---
