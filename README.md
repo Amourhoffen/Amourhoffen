@@ -40,8 +40,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imPrince_Kashyap&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imPrince_Kashyap&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amourhoffen&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amourhoffen&theme=tokyonight" />
 </p>
 
 ---
